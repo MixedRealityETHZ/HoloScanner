@@ -1,0 +1,6 @@
+[submodule "CPP/DirectXMath"]
+	path = CPP/DirectXMath
+	url = https://github.com/liuzikai/DirectXMath.git
+[submodule "CPP/libigl"]
+	path = CPP/libigl
+	url = https://github.com/libigl/libigl.git
